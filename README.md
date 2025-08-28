@@ -8,7 +8,7 @@ A React + Firebase web app in order to track your job applications in real-time.
 # 2. Real-time Database:
   Stores application in Firebase with live updates
   
-# 3. Secue and Private:
+# 3. Secure and Private:
   Each user's data is accessible only to them
   
 # 4. Responsive UI:
